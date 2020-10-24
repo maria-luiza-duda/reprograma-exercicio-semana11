@@ -1,0 +1,27 @@
+{
+  "name": "reprograma-exercicio-semana11",
+  "version": "1.0.0",
+  "description": "playlist-reprograma-exercicio-semana11",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria-luiza-duda/reprograma-exercicio-semana11.git"
+  },
+  "author": "maria-luiza-duda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maria-luiza-duda/reprograma-exercicio-semana11/issues"
+  },
+  "homepage": "https://github.com/maria-luiza-duda/reprograma-exercicio-semana11#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}

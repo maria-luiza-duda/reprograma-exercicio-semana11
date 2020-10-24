@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "title": "Tell it to my heart",
+        "artist":"Taylor Dayne", 
+        "duration": "3:44",
+        "genre":["Pop","Jazz"],
+        "launchYear": "1988",
+        "album": "Tell it to my heart",
+        "language": "English",
+        "favorited" : false
+    },
+    {
+        "id": 2,
+        "title": "Baltimore",
+        "artist": "Nina Simone", 
+        "duration": "4:34", 
+        "genre":["Jazz","Soul"],
+        "launchYear": "1978",
+        "album": "Baltimore",
+        "language": "English",
+        "favorited" : true
+    },
+    {
+        "id": 3,
+        "title": "Latinoamerica",
+        "artist": "Calle 13", 
+        "duration": "4:58", 
+        "genre":["Hip-hop", "Rap"],
+        "launchYear": "2010",
+        "album": "Entren los que quieran",
+        "language": "Spanish",
+        "favorited" : true
+    },
+    {
+        "id": 4,
+        "title": "Are you ready for love?",
+        "artist": "Elton John", 
+        "duration": "3:48", 
+        "genre":"Pop",
+        "launchYear": "1989",
+        "album": "The Complete Thom Bell Sessions",
+        "language": "English",
+        "favorited" : true
+    },
+    {
+        "id": 5,
+        "title": "Leão do Norte",
+        "artist": "Lenine", 
+        "duration": "4:11", 
+        "genre":["MPB", "Regional"],
+        "launchYear": "1993",
+        "album": "Leão do Norte",
+        "language": "Portuguese",
+        "favorited" : true
+    },
+    {
+        "id": 6,
+        "title": "Alegria, alegria",
+        "artist": "Caetano Veloso", 
+        "duration": "2:48", 
+        "genre":["Tropicalismo","Rock", "MPB"],
+        "launchYear": "1967",
+        "album": "Caetano Veloso",
+        "language": "Portuguese",
+        "favorited" : false
+    },
+    {
+        "id": 7,
+        "title": "Ain't no mountain high enough",
+        "artist": ["Marvin Gaye","Tammi Terrell"], 
+        "duration": "2:32",
+        "genre":["R&B","Soul"],
+        "launchYear": "1966",
+        "album": "United",
+        "language": "English",
+        "favorited" : true
+    },
+    {
+        "id": 8,
+        "title": "La vie en rose",
+        "artist": "Edith Piaf", 
+        "duration": "3:07", 
+        "genre":"Pop",
+        "launchYear": "1946",
+        "album": "La vie en rose",
+        "language": "French",
+        "favorited" : false
+    },
+     {
+        "id": 9,
+        "title": "N'attendons pas",
+        "artist": "Vianney", 
+        "duration": "3:12", 
+        "genre":"Pop",
+        "launchYear": "2020",
+        "album": "N'attendons pas",
+        "language": "French",
+        "favorited" : true
+    },
+     {
+        "id": 10,
+        "title": "Talk is cheap",
+        "artist": "Chet Faker", 
+        "duration": "3:38", 
+        "genre":["Pop","Eletronic"],
+        "launchYear": "2014",
+        "album": "Built on glass",
+        "language": "English",
+        "favorited" : false
+    },
+    {
+        "id": 11,
+        "title": "Mistakes",
+        "artist": "Unspoken", 
+        "duration": "3:20", 
+        "genre":["Gospel", "Pop"],
+        "launchYear": "1946",
+        "album": "Just give me Jesus",
+        "language": "English",
+        "favorited" : true
+    },
+    {
+        "id": 12,
+        "title": "Não dá mais",
+        "artist": "Papa black", 
+        "duration": "3:16", 
+        "genre":"Pop",
+        "launchYear": "2017",
+        "album": "Não dá mais",
+        "language": "Portuguese",
+        "favorited" : true
+    },
+    {
+        "id": 13,
+        "title": "Inside friend",
+        "artist": ["Leon Bridges","John Mayer"], 
+        "duration": "2:55", 
+        "genre":["R&B", "Soul"],
+        "launchYear": "2020",
+        "album": "Inside friend",
+        "language": "English",
+        "favorited" : false
+    },
+    {
+        "id": 14,
+        "title": "Grace",
+        "artist": "Isaac M.", 
+        "duration": "3:16", 
+        "genre":["R&B", "Gospel"],
+        "launchYear": "2019",
+        "album": "Grace",
+        "language": "French",
+        "favorited" : true
+    },
+    {
+        "id": 15,
+        "title": "Farol",
+        "artist": ["Tupi", "Yago, Opropio"], 
+        "duration": "3:16", 
+        "genre":["Dance","Eletronic"],
+        "launchYear": "2020",
+        "album": "Farol",
+        "language": "Portuguese",
+        "favorited" : true
+    },
+    {
+        "id": 16,
+        "title": "Le chant des sirènes",
+        "artist": "Fréro Delavega", 
+        "duration": "2:58", 
+        "genre":["Folk", "Pop"],
+        "launchYear": "2019",
+        "album": "Fréro Delavega",
+        "language": "French",
+        "favorited" : true
+    },
+    {
+        "id": 17,
+        "title": "Washing dishes",
+        "artist": "Jack Johnson", 
+        "duration": "3:23", 
+        "genre":["Folk", "Rock", "Surf music"],
+        "launchYear": "2013",
+        "album": "From here to now to you",
+        "language": "English",
+        "favorited" : true
+    },
+    {
+        "id": 18,
+        "title": "Pontos de exclamação",
+        "artist": "Jovem Dionisio", 
+        "duration": "3:01", 
+        "genre":"Pop",
+        "launchYear": "2020",
+        "album": "Pontos de exclamação",
+        "language": "Portuguese",
+        "favorited" : false
+    },
+    {
+        "id": 19,
+        "title": "Desenvolvendo amor",
+        "artist": "Ministério Morada", 
+        "duration": "4:25", 
+        "genre":["Reggae", "Gospel"],
+        "launchYear": "2013",
+        "album": "Atenção",
+        "language": "Portuguese",
+        "favorited" : true
+    },
+    {
+        "id": 20,
+        "title": "Semillas",
+        "artist": "Muerdo", 
+        "duration": "3:01", 
+        "genre":["Reggae", "Folk"],
+        "launchYear": "2013",
+        "album": "Tocando tierra",
+        "language": "Spanish",
+        "favorited" : false
+    },
+    {
+        "id": 21,
+        "title": "Love love",
+        "artist": "Gilsons", 
+        "duration": "3:25", 
+        "genre":["MPB", "Pop"],
+        "launchYear": "2020",
+        "album": "Love love",
+        "language": "Portuguese",
+        "favorited" : false
+    },
+    {
+        "id": 22,
+        "title": "O mar dentro da concha",
+        "artist": "5 a seco", 
+        "duration": "3:38", 
+        "genre":["MPB", "Indie", "Rock", "Jazz"],
+        "launchYear": "2018",
+        "album": "Síntese",
+        "language": "Portuguese",
+        "favorited" : true
+    }
+
+]
